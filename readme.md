@@ -14,3 +14,4 @@ The model analyzes a given sample text, builds a probability dictionary (chain) 
 Make sure you have Python installed, then run the following command in your terminal:
 ```bash
 python text_generator.py
+<img width="683" height="39" alt="image" src="https://github.com/user-attachments/assets/ffffc352-14d4-4629-8261-7b2b2caf3c7c" />
